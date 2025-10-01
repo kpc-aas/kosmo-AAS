@@ -25,7 +25,7 @@
 | **ABH**                                  | ABH의 AAS 모델을 업로드 하는 Repository입니다.                                             | [바로가기](https://github.com/kosmo-AAS/ABH_MICUBE_IMPIX) |
 | **LSElectric**                           | LSElectric의 AAS 모델을 업로드 하는 Repository입니다.                                      | [바로가기](https://github.com/kosmo-AAS/LSELECTRIC_OCUBE) |
 | **MICUBE**                               | MICUBE의 AAS 모델을 업로드 하는 Repository입니다.                                          | [바로가기](https://github.com/kosmo-AAS/MICUBE_KETI_ABH_IMPIX) |
-| **KCP**                                  | KCP의 AAS 모델을 업로드 하는 Repository입니다.                                             | [바로가기](https://github.com/kosmo-AAS/KCP_INTERX_KITECH) |
+| **KPC**                                  | KPC의 AAS 모델을 업로드 하는 Repository입니다.                                             | [바로가기](https://github.com/kosmo-AAS/KPC_INTERX_KITECH) |
 | **QnA**                                  | QnA Repository 입니다.                                                                    | [바로가기](https://github.com/kosmo-AAS/QnA.git) |
 | **Public**                               | Public Repository 입니다.                                                                 | [바로가기](https://github.com/kosmo-AAS/kosmo-AAS_Pubilc)|
 
